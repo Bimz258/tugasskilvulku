@@ -1,0 +1,8 @@
+Lengkapi element script berikut agar bisa mengenali file eksternal script.js
+
+<script ...="script.js"></...>
+
+
+jawab:
+
+src & script

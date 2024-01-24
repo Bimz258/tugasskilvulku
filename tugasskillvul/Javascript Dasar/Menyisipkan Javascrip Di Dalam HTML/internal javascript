@@ -1,0 +1,6 @@
+Di dalam element apa sajakah kita bisa meletakkan element <script> di dalam file HTML?
+
+
+Jawab:
+
+<head> & <body>
