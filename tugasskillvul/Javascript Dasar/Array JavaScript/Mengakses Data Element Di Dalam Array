@@ -1,0 +1,10 @@
+Perhatikan array di bawah ini:
+
+let fruits = ['Mangga', 'Pisang', 'Jambu'];
+Berdasarkan array di atas, berikut ini adalah cara mengakses 'Jambu', kecuali:
+
+
+jawab:
+
+
+fruits.[length-1]

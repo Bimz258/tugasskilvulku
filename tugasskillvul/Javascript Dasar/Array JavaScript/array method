@@ -1,0 +1,10 @@
+Perhatikan array di bawah ini.
+
+let fruits = ["Mangga", "Pisang", "Jambu"];
+Cara menambah "Semangka" diantara "Pisang" dan "Jambu" adalah sebagai berikut:
+
+
+
+jawab:
+
+fruits.splice(2, 0, 'Semangka');

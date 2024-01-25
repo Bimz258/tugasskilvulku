@@ -1,0 +1,9 @@
+Perhatikan array di bawah ini:
+
+let hewan = ['Kucing', 'Jerapah', 'Gajah'];
+Berdasarkan array di atas, pernyataan berikut yang benar adalah:
+
+
+jawab:
+
+Jerapah berada pada index ke 1 dan Gajah berada pada index ke 2
